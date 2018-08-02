@@ -1,0 +1,133 @@
+﻿  stdafx.cpp
+  cgSdk_demo.cpp
+c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(27): warning C4273: “isblank”: dll 链接不一致
+  f:\windows kits\10\include\10.0.17134.0\ucrt\ctype.h(47): note: 参见“isblank”的前一个定义
+c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\sqlite3.h(11515): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\cgapi.h(738): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(542): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(538): note: 编译 类 模板 成员函数 "int CSortedBufferT<int>::FindAs(const T &,int (__cdecl *)(const void *,const void *))" 时
+          with
+          [
+              T=int
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(478): note: 参见对正在编译的函数 模板 实例化“int CSortedBufferT<int>::FindAs(const T &,int (__cdecl *)(const void *,const void *))”的引用
+          with
+          [
+              T=int
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(4169): note: 参见对正在编译的 类 模板 实例化 "CSortedBufferT<int>" 的引用
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(4167): note: 编译 类 模板 成员函数 "int CGreedyElxT<0>::MatchNextVart(CContext *) const" 时
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(4129): note: 参见对正在编译的函数 模板 实例化“int CGreedyElxT<0>::MatchNextVart(CContext *) const”的引用
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(4114): note: 编译 类 模板 成员函数 "int CGreedyElxT<0>::Match(CContext *) const" 时
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(1303): note: 参见对正在编译的 类 模板 实例化 "CGreedyElxT<0>" 的引用
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(2705): note: 参见对正在编译的 类 模板 实例化 "CPossessiveElxT<0>" 的引用
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(2595): note: 编译 类 模板 成员函数 "ElxInterface *CBuilderT<CHART>::BuildRepeat(int &)" 时
+          with
+          [
+              CHART=char
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(2573): note: 参见对正在编译的函数 模板 实例化“ElxInterface *CBuilderT<CHART>::BuildRepeat(int &)”的引用
+          with
+          [
+              CHART=char
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(1992): note: 编译 类 模板 成员函数 "int CBuilderT<CHART>::GetNext2(void)" 时
+          with
+          [
+              CHART=char
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(1988): note: 参见对正在编译的函数 模板 实例化“int CBuilderT<CHART>::GetNext2(void)”的引用
+          with
+          [
+              CHART=char
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(1818): note: 编译 类 模板 成员函数 "int CBuilderT<CHART>::GetNamedNumber(const CBufferRefT<CHART> &) const" 时
+          with
+          [
+              CHART=char
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(1873): note: 参见对正在编译的函数 模板 实例化“int CBuilderT<CHART>::GetNamedNumber(const CBufferRefT<CHART> &) const”的引用
+          with
+          [
+              CHART=char
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(1829): note: 编译 类 模板 成员函数 "ElxInterface *CBuilderT<CHART>::Build(const CBufferRefT<CHART> &,int)" 时
+          with
+          [
+              CHART=char
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(3476): note: 参见对正在编译的函数 模板 实例化“ElxInterface *CBuilderT<CHART>::Build(const CBufferRefT<CHART> &,int)”的引用
+          with
+          [
+              CHART=char
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(3474): note: 编译 类 模板 成员函数 "void CRegexpT<char>::Compile(const CHART *,int,int)" 时
+          with
+          [
+              CHART=char
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(3460): note: 参见对正在编译的函数 模板 实例化“void CRegexpT<char>::Compile(const CHART *,int,int)”的引用
+          with
+          [
+              CHART=char
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\deelx.h(3459): note: 编译 类 模板 成员函数 "CRegexpT<char>::CRegexpT(const CHART *,int)" 时
+          with
+          [
+              CHART=char
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\cgapi.h(706): note: 参见对正在编译的函数 模板 实例化“CRegexpT<char>::CRegexpT(const CHART *,int)”的引用
+          with
+          [
+              CHART=char
+          ]
+  c:\users\baiyu\desktop\smallcake-cgsdk-master\cgsdk\cgsdk_demo\cgsdk\cgapi.h(706): note: 参见对正在编译的 类 模板 实例化 "CRegexpT<char>" 的引用
+  dllmain.cpp
+C:\Program Files\vs2017_Main\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1206,5): warning MSB8012: TargetExt(.ext.dll) 与 Linker 的 OutputFile 属性值(.dll)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+C:\Program Files\vs2017_Main\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1207,5): warning MSB8012: TargetName(cgSdk_demo) 与 Linker 的 OutputFile 属性值(cgSdk_demo.ext)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__AuthCode”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__info_ext”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__info_function”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__ext_close”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__demo_function1”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__ext_event_trigger”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__ext_event_start”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__ext_event_suspend”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__ext_event_AttributeChange”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__ext_event_GamePlayerDied”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__ext_event_Upgrade”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__ext_event_KillMonster”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__ext_event_ForcedCombat”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__ext_event_ReceivedMsg”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__ext_event_ReceivedMsg_NT”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__ext_event_AnalysisVariable”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__menu_test_cgSdk”；使用第一个规范
+cgSdk_demo.obj : warning LNK4197: 多次指定导出“__menu_test_knapsack”；使用第一个规范
+    正在创建库 C:\Users\baiyu\Desktop\smallcake-cgSdk-master\cgSdk\x64\Debug\cgSdk_demo.lib 和对象 C:\Users\baiyu\Desktop\smallcake-cgSdk-master\cgSdk\x64\Debug\cgSdk_demo.exp
+cgSdk_demo.obj : error LNK2019: 无法解析的外部符号 __imp_strToHex，该符号在函数 "void __cdecl CGSDK::SendMsg(char const *,char const *,char const *,char const *)" (?SendMsg@CGSDK@@YAXPEBD000@Z) 中被引用
+cgSdk_demo.obj : error LNK2019: 无法解析的外部符号 __imp__judge_usable_function，该符号在函数 __demo_function1 中被引用
+cgSdk_demo.obj : error LNK2019: 无法解析的外部符号 __imp_Global_Get，该符号在函数 "char const * __cdecl CGSDK::GetMessagePrefix(void)" (?GetMessagePrefix@CGSDK@@YAPEBDXZ) 中被引用
+cgSdk_demo.obj : error LNK2019: 无法解析的外部符号 __imp__get_knapsack_all_cgjson，该符号在函数 __menu_test_knapsack 中被引用
+cgSdk_demo.obj : error LNK2019: 无法解析的外部符号 __imp__CGJson_Escape，该符号在函数 "public: char const * __cdecl CGSDK::CGJson::get_cgjson(void)" (?get_cgjson@CGJson@CGSDK@@QEAAPEBDXZ) 中被引用
+cgSdk_demo.obj : error LNK2019: 无法解析的外部符号 __imp__event_join，该符号在函数 "void __cdecl CGSDK::SendMsg(char const *,char const *,char const *,char const *)" (?SendMsg@CGSDK@@YAXPEBD000@Z) 中被引用
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___AuthCode@4
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___demo_function1@16
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___ext_close@0
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___ext_event_AnalysisVariable@16
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___ext_event_AttributeChange@12
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___ext_event_ForcedCombat@8
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___ext_event_GamePlayerDied@12
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___ext_event_KillMonster@8
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___ext_event_ReceivedMsg@16
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___ext_event_ReceivedMsg_NT@16
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___ext_event_Upgrade@4
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___ext_event_start@0
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___ext_event_suspend@0
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___ext_event_trigger@16
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___info_ext@0
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___info_function@0
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___menu_test_cgSdk@0
+cgSdk_demo.exp : error LNK2001: 无法解析的外部符号 ___menu_test_knapsack@0
+cgSdk\cgapi.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+cgSdk\sqlite3_x86.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\baiyu\Desktop\smallcake-cgSdk-master\cgSdk\x64\Debug\cgSdk_demo.ext.dll : fatal error LNK1120: 24 个无法解析的外部命令
