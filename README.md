@@ -1,0 +1,2 @@
+# CGPluginToServerAndRobot
+同步mc服务器数据和QQ群RPG机器人数据工程之RPG机器人插件拓展。
